@@ -1,0 +1,31 @@
+body {
+    background-color: #2a9d8f;
+}
+
+h1 {
+    font-family: monospace;
+}
+
+#sobre {
+    font-family: Arial;
+}
+
+em {
+    color: white;
+}
+
+.toco-violao {
+    font-size: 18px;
+}
+
+.sou-professor-voluntario{
+    font-size: 22px;
+}
+
+.sou-um-bom-ouvinte {
+    font-size: 16px;
+}
+
+.sou-cuidadoso {
+    font-size: 20px;
+}
