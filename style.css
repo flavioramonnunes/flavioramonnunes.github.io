@@ -33,6 +33,8 @@ em {
 
 #foto {
     float: left;
+    padding: 5px;
+    background-color: green;
 }
 
 .img-container {
