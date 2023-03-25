@@ -1,48 +1,26 @@
-body {
-    background-color: #2a9d8f;
-}
-
 h1 {
     font-family: monospace;
-    text-align: center;
-}
-
-#sobre {
-    font-family: Arial;
-    padding-top: 70px;
-    padding-left: 250px;
-}
-
-em {
-    color: white;
-}
-
-.toco-violao {
-    font-size: 18px;
-}
-
-.sou-professor-voluntario{
-    font-size: 22px;
-}
-
-.sou-um-bom-ouvinte {
-    font-size: 16px;
-}
-
-.sou-cuidadoso {
-    font-size: 20px;
+    /* text-align: center; */
 }
 
 #foto {
-    float: left;
+    /* float: left;
     padding: 5px;
-    background-color: green;
+    background-color: green; */
 }
 
-.img-container {
-    height: 200px;
+p {
+    text-align: justify;
 }
 
-ul li:nth-child(odd) {
-    color: blue;
+@media screen and (min-width: 320px) {
+    h1 {
+        color: blue;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    h1 {
+        color: red;
+    }
 }
